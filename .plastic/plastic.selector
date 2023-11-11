@@ -1,0 +1,4 @@
+repository "image tracking test@rainn2333@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
